@@ -4,6 +4,7 @@ import com.upgrade.doctriod.data.DoctorRepository
 import com.upgrade.doctriod.data.mockdata.MockDataSource
 import dagger.Module
 import dagger.Provides
+import dagger.Reusable
 import javax.inject.Singleton
 
 @Module
